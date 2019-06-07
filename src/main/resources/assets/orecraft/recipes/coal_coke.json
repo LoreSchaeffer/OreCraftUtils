@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "orecraft:coal_coke_block"
+    }
+  ],
+  "result": {
+    "item": "orecraft:coal_coke",
+    "count": 9
+  }
+}

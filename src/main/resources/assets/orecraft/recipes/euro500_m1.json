@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "orecraft:euro200"
+    },
+    {
+      "item": "orecraft:euro200"
+    },
+    {
+      "item": "orecraft:euro100"
+    }
+  ],
+  "result": {
+    "item": "orecraft:euro500",
+    "count": 1
+  }
+}

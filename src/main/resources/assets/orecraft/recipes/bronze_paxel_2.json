@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "APS",
+    " W ",
+    " W "
+  ],
+  "key": {
+    "S": {
+      "item": "orecraft:bronze_shovel"
+    },
+    "P": {
+      "item": "orecraft:bronze_pickaxe"
+    },
+    "A": {
+      "item": "orecraft:bronze_axe"
+    },
+    "W": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "orecraft:bronze_paxel"
+  }
+}

@@ -1,0 +1,65 @@
+itemGroup.orecraft=OreCraft
+
+item.orecraft.cent1.name=1 Cent.
+item.orecraft.cent2.name=2 Cent.
+item.orecraft.cent5.name=5 Cent.
+item.orecraft.cent10.name=10 Cent.
+item.orecraft.cent20.name=20 Cent.
+item.orecraft.cent50.name=50 Cent.
+item.orecraft.euro1.name=1 Euro
+item.orecraft.euro2.name=2 Euro
+item.orecraft.euro5.name=5 Euro
+item.orecraft.euro10.name=10 Euro
+item.orecraft.euro20.name=20 Euro
+item.orecraft.euro50.name=50 Euro
+item.orecraft.euro100.name=100 Euro
+item.orecraft.euro200.name=200 Euro
+item.orecraft.euro500.name=500 Euro
+
+item.orecraft.iron_gear.name=Iron Gear
+item.orecraft.coal_coke.name=Coal Coke
+item.orecraft.processor.name=Redstone Processor
+
+item.orecraft.iron_dust.name=Pulverized Iron
+item.orecraft.gold_dust.name=Pulverized Gold
+item.orecraft.copper_dust.name=Pulverized Copper
+item.orecraft.tin_dust.name=Pulverized Tin
+item.orecraft.silver_dust.name=Pulverized Silver
+item.orecraft.bronze_dust.name=Pulverized Bronze
+
+item.orecraft.bronze_ingot.name=Bronze Ingot
+
+item.orecraft.bronze_sword.name=Bronze Sword
+item.orecraft.bronze_pickaxe.name=Bronze Pickaxe
+item.orecraft.bronze_axe.name=Bronze Axe
+item.orecraft.bronze_shovel.name=Bronze Shovel
+item.orecraft.bronze_hoe.name=Bronze Hoe
+item.orecraft.steel_sword.name=Steel Sword
+item.orecraft.steel_pickaxe.name=Steel Pickaxe
+item.orecraft.steel_axe.name=Steel Axe
+item.orecraft.steel_shovel.name=Steel Shovel
+item.orecraft.steel_hoe.name=Steel Hoe
+
+item.orecraft.bronze_paxel.name=Bronze Paxel
+item.orecraft.steel_paxel.name=Steel Paxel
+
+item.orecraft.bronze_helmet.name=Bronze Helmet
+item.orecraft.bronze_chestplate.name=Bronze Chestplate
+item.orecraft.bronze_leggings.name=Bronze Leggings
+item.orecraft.bronze_boots.name=Bronze Boots
+item.orecraft.steel_helmet.name=Steel Helmet
+item.orecraft.steel_chestplate.name=Steel Chestplate
+item.orecraft.steel_leggings.name=Steel Leggings
+item.orecraft.steel_boots.name=Steel Boots
+
+tile.orecraft.coal_coke_block.name=Coal Coke Block
+tile.orecraft.charcoal_block.name=Charcoal Block
+
+tile.orecraft.oak_bark.name=Oak Bark
+tile.orecraft.birch_bark.name=Birch Bark
+tile.orecraft.jungle_bark.name=Jungle Bark
+tile.orecraft.spruce_bark.name=Spruce Bark
+tile.orecraft.acacia_bark.name=Acacia Bark
+tile.orecraft.dark_oak_bark.name=Dark Oak Bark
+
+tile.orecraft.bronze_block.name=Bronze Block

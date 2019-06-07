@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "orecraft:bronze_block"
+    }
+  ],
+  "result": {
+    "item": "orecraft:bronze_ingot",
+    "count": 9
+  }
+}

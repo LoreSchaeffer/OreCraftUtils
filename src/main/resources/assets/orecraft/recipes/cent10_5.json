@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "orecraft:cent5"
+    },
+    {
+      "item": "orecraft:cent5"
+    }
+  ],
+  "result": {
+    "item": "orecraft:cent10",
+    "count": 1
+  }
+}
